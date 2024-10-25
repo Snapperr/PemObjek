@@ -1,6 +1,5 @@
 package uts;
-
-import java.util.Map;
+import java.util.*;
 
 public class Makanan {
     String nama;
